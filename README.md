@@ -1,6 +1,6 @@
 # Points Clicked Game
 
-Simple game with multiple available levels where the player has to press points in sequence. Made with unity.
+Simple game with multiple available levels where the player has to press points in sequence. Made with Unity 2020.1.11f1.
 
 
 # Play Demo Showcase
