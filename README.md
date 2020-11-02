@@ -15,5 +15,5 @@ Simple game with multiple available levels where the player has to press points 
  5. Select Points-Clicker-Game folder
  
 ## Run Game
- 1. Open Game scene from Assets/Scenes/Game
+ 1. Open Game scene from Assets/Scenes/
  2. Press Run
